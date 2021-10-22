@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Berke
-- 👀 I’m interested in mobile-app development
 - 🌱 I’m currently learning NodeJS, Django, DP
 - 📫 How to reach me:
                       - berke.ahlatci@gmail.com
