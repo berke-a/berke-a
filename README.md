@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Berke
-- 🌱 I’m currently learning NodeJS, Django, DP
+- 🌱 I’m currently learning React, Django, DP
 - 📫 How to reach me:
                       - berke.ahlatci@gmail.com
                       - linkedin.com/in/berkeahlatci
