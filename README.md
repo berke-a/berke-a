@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Berke
+- :school: I am currently studying undergrad at METU Computer Engineering.
 - 📫 How to reach me:
-                      - berke.ahlatci@gmail.com
-                      - linkedin.com/in/berkeahlatci
+  - berke.ahlatci@gmail.com
+  - linkedin.com/in/berkeahlatci
 
 
 <!---
