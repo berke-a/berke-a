@@ -2,7 +2,7 @@
 - :school: I am a senior undergrad student at METU Computer Engineering
 - 📫 How to reach me:
   - berke.ahlatci@gmail.com
-  - linkedin.com/in/berkeahlatci
+  - [linkedin](https://www.linkedin.com/in/berkeahlatci/)
 
 
 <!---
