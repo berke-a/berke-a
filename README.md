@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Berke
 - :school: I am a senior undergrad student at METU Computer Engineering
-- Here is my [CV](https://github.com/berke-a/berke-a/files/13814102/Berke_Ahlatci_CV.pdf)
+- Here is my [CV](https://github.com/berke-a/berke-a/files/14116199/Berke_Ahlatci_CV.pdf)
+
 
 
 <!---
