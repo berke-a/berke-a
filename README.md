@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Berke
-- :school: I am a senior undergrad student at METU Computer Engineering
-- Here is my [CV](https://github.com/berke-a/berke-a/files/14116199/Berke_Ahlatci_CV.pdf)
+# Hello, I'm Berke 👋
 
+I'm a recent Computer Science honors graduate from METU, passionate about developing innovative software solutions. Here are some of my technical electives:
 
+- 🌩️ Cloud Computing: Developed a [full-stack e-commerce site](https://github.com/berke-a/ecommerce-website) & deployed an application using Minikube and Skaffold with Kubernetes.
+- 🛠️ Software Construction: Collaborated on a Catan desktop application as part of a 3-person team. Check out the [backend](https://github.com/berke-a/HexaLands-Backend) & [frontend](https://github.com/berke-a/HexaLands-Frontend).
+- 🤖 Intro to Machine Learning: [Implemented machine learning algorithms from scratch](https://github.com/berke-a/metu-ceng/tree/main/ceng499).
+
+For a detailed overview of my experiences and projects, [here's my resume](https://github.com/berke-a/berke-a/files/14116199/Berke_Ahlatci_CV.pdf).
+##
+I'm actively seeking opportunities to contribute to exciting projects, especially in **software development**. If you're interested in collaborating or have a question about my work, feel free to reach out!
+- 📧 Email: [berke.ahlatci@gmail.com](mailto:berke.ahlatci@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/berkeahlatci/)
 
 <!---
 berke-a/berke-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
