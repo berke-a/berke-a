@@ -8,7 +8,7 @@ I'm a recent Computer Engineering honors graduate from METU, passionate about de
 
 For a detailed overview of my experiences and projects, [here's my resume](https://github.com/berke-a/berke-a/files/14116199/Berke_Ahlatci_CV.pdf).
 ##
-I'm actively seeking opportunities to contribute to exciting projects, especially in **software development**. If you're interested in collaborating or have a question about my work, feel free to reach out!
+**I'm actively seeking opportunities** to contribute to exciting projects, especially in **software development**. If you're interested in collaborating or have a question about my work, feel free to reach out!
 - 📧 Email: [berke.ahlatci@gmail.com](mailto:berke.ahlatci@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/berkeahlatci/)
 
