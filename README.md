@@ -6,7 +6,7 @@ I'm a recent Computer Engineering honors graduate from METU, passionate about de
 - 🛠️ Software Construction: Collaborated on a [Catan desktop application](https://github.com/berke-a/HexaLands) as part of a 3-person team.
 - 🤖 Intro to Machine Learning: [Implemented machine learning algorithms from scratch](https://github.com/berke-a/metu-ceng/tree/main/ceng499).
 
-For a detailed overview of my experiences and projects, [here's my resume](https://github.com/berke-a/berke-a/files/14116199/Berke_Ahlatci_CV.pdf).
+For a detailed overview of my experiences and projects, [here's my resume](https://github.com/berke-a/berke-a/files/14239635/Berke_Ahlatci_CV.pdf).
 ##
 **I'm actively seeking opportunities** to contribute to exciting projects, especially in **software development**. If you're interested in collaborating or have a question about my work, feel free to reach out!
 - 📧 Email: [berke.ahlatci@gmail.com](mailto:berke.ahlatci@gmail.com)
